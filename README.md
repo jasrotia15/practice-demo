@@ -1,4 +1,4 @@
 # practice-demo
-this is a practice demo repository.
+This is a practice demo repository.
 <br>
 Author - DPSJ
