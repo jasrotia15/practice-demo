@@ -1,3 +1,3 @@
 # practice-demo
-this is a practice demo repository
+this is a practice demo repository.
 Author - DPSJ
